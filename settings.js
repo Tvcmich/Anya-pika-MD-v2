@@ -15,9 +15,9 @@ actiontitle = 'ᴀͥʀͣᴎͫᴏᴌͫᴅͩ_ẏᷨᴛͦ.ʀͭ' // text who display
 global.headerText = "ᴀͥᴅͭᴋᷤ_Ɍɪͫᴄͤʜᴜ_ͫᴇͩᴅɪᷨᴛͦᴢͭ" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             
-             global.ownernumber = ['916282122603']   // Owner number //
-             global.vcardowner = ['916282122603']   // vcard owner number //
-             global.ownername = "ᴀͥᴅͭᴋᷤ_Ɍɪͫᴄͤʜᴜ_ͫᴇͩᴅɪᷨᴛͦᴢͭ"   // Owner name //
+             global.ownernumber = ['2347043890995']   // Owner number //
+             global.vcardowner = ['2348106189317']   // vcard owner number //
+             global.ownername = "tccmichael"   // Owner name //
              global.ytname = "YT:ADK_RICHU_EDITZ"   // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : VIJAYAKUMARNB"   // Github or insta name //
              global.location = "India, Kerala, Pathanamthitta // Location //
