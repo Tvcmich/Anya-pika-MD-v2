@@ -23,7 +23,7 @@ global.lApiKey = [ // if this API key get expired then please go to https://api.
 
 global.botname = "Queen Anya" 
 global.author = "𝙋𝙄𝙆𝘼"  
-global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
+global.packname = "tccbot"  
 global.myweb = "https://github.com/PikaBotz" // You can put any link 
 global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark 
 global.footer = "© Queen Anya Bot"
